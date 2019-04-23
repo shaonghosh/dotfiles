@@ -1,1 +1,1 @@
-/Users/ghosh4/.vimrc
+../.vimrc
